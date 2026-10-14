@@ -1,3 +1,3 @@
-# banneret.io
+# stayingcozy.com
 
 code for blog. 

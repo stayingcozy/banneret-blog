@@ -18,9 +18,9 @@ export type SiteConfig = {
 
 export const site: SiteConfig = {
   /** Shown in the title bar and browser tab. */
-  title: "banneret.io",
+  title: "stayingcozy",
   /** Full URL once your Route 53 domain is attached (used for metadata). */
-  url: "https://banneret.io",
+  url: "https://stayingcozy.com",
   description: "Writing about software, how computers work, and whatever else.",
 
   /** Accent color used for links, the title bar mark and highlights. */
