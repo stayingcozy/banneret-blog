@@ -44,8 +44,8 @@ export const site: SiteConfig = {
 
   /** Profile section (bottom of the homepage). */
   profile: {
-    name: "Your Name",
-    pronouns: "they/them", // set to "" to hide
+    name: "Cody Colclough",
+    pronouns: "", // set to "" to hide
     photo: "/avatar.svg", // drop your own image in /public and point here
     bio: [
       "A sentence or two about who you are and what you write about.",
@@ -55,8 +55,8 @@ export const site: SiteConfig = {
 
   /** "find me" links (also shown in the footer). */
   links: [
-    { label: "LinkedIn", href: "https://www.linkedin.com/in/your-handle" },
-    { label: "X", href: "https://x.com/your-handle" },
-    { label: "GitHub", href: "https://github.com/your-handle" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/codycolclough" },
+    { label: "X", href: "https://x.com/CodyColclough" },
+    { label: "GitHub", href: "https://github.com/stayingcozy" },
   ],
 };
